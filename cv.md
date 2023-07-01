@@ -47,10 +47,8 @@ git push origin main
 
 ## Education
 
-**HSE ART & DESIGN SCHOOL**
-
-Bachelor of Design
-
+**HSE ART & DESIGN SCHOOL**<br>
+Bachelor of Design<br>
 2015
 
 ## Courses
