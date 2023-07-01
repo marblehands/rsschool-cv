@@ -3,11 +3,8 @@
 ## Contacts
 
 **Location:** Budapest, Hungary
-
 **Email:** anna.chebysheva@gmail.com
-
 **Telegram:** @uiuxanna
-
 [LinkedIn](https://www.linkedin.com/in/annachebysheva/)
 
 ## Summary
@@ -64,11 +61,9 @@ Bachelor of Design
 ## Languages
 
 - English – C1 Advanced on the CEFR scale.
-
   Proven by successfully passing the Cambridge Exam FCE with Grade A in June 2023.
 
 - Polish – B1
-
   Learned with a tutor about a year, have been living in Poland and communicated on basic topics.
 
 - Russian – Native
