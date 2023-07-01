@@ -37,12 +37,13 @@ Experienced UX/UI Designer with a strong background in web and product design. I
 
 ## Code example
 
-Some basic Git commands I have recently learned:
+Instruction for the first task on Codewars: _This code does not execute properly. Try to figure out why._
+Solution: _Missing `return`_
 
 ```
-git commit -m 'init: creat Readmi file'
-git checkout -b gh-pages
-git push origin main
+function multiply(a, b){
+return a * b
+}
 ```
 
 ## Education
