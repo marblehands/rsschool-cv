@@ -2,9 +2,9 @@
 
 ## Contacts
 
-**Location:** Budapest, Hungary
-**Email:** anna.chebysheva@gmail.com
-**Telegram:** @uiuxanna
+**Location:** Budapest, Hungary<br>
+**Email:** anna.chebysheva@gmail.com<br>
+**Telegram:** [@uiuxanna](https://t.me/uiuxanna)<br>
 [LinkedIn](https://www.linkedin.com/in/annachebysheva/)
 
 ## Summary
@@ -56,6 +56,7 @@ Bachelor of Design
 ## Courses
 
 - Udemy, Build Responsive Real-World Websites with HTML and CSS, Jonas Schmedtmann (in progress).
+
 - RS School, JavaScript/Front-end. Stage 0 (in progress).
 
 ## Languages
