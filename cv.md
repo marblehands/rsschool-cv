@@ -5,6 +5,7 @@
 **Location:** Budapest, Hungary<br>
 **Email:** anna.chebysheva@gmail.com<br>
 **Telegram:** [@uiuxanna](https://t.me/uiuxanna)<br>
+**RS Discord:** Ania Chebysheva @marblehands<br>
 [LinkedIn](https://www.linkedin.com/in/annachebysheva/)
 
 ## Summary
@@ -37,7 +38,7 @@ Experienced UX/UI Designer with a strong background in web and product design. I
 
 ## Code example
 
-Instruction for the first task on Codewars: _This code does not execute properly. Try to figure out why._
+Instruction for the first task on Codewars: _This code does not execute properly. Try to figure out why._<br>
 Solution: _Missing `return`_
 
 ```
