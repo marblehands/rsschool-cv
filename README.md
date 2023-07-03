@@ -1,1 +1,1 @@
-https://marblehands.github.io/rsschool-cv/cv
+https://marblehands.github.io/rsschool-cv/
