@@ -1,0 +1,59 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-family: "Work Sans", sans-serif;
+  font-weight: 500;
+  /* background-color: #1e1f1f; */
+}
+
+h1 {
+  font-family: "Alfa Slab One", cursive;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 40px;
+}
+
+.nav-list,
+.contact-list {
+  list-style: none;
+}
+
+.nav-link:link,
+.nav-link:active,
+.nav-link:visited {
+  padding: 0 20px;
+  line-height: 50px;
+  text-decoration: none;
+  font-size: 24px;
+  color: #ffffffcc;
+}
+
+.nav-link:hover,
+.nav-link:focus {
+  text-decoration: underline 6px solid #f5bebe;
+  text-underline-offset: 0.7rem;
+  color: #ffffff;
+  transition: 0.5s;
+  cursor: pointer;
+}
