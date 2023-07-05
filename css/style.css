@@ -248,7 +248,8 @@ pre {
 
 /* Button */
 
-button {
+.button {
+  width: fit-content;
   border-radius: 12px;
   border: #1e1f1f 2px solid;
   background-color: #fff;
@@ -260,20 +261,20 @@ button {
   margin-top: 36px;
 }
 
-button:hover {
+.button:hover {
   background-color: #1e1f1f;
   color: #fff;
 }
 
-button a:link,
-button a:visited {
+.button a:link,
+.button a:visited {
   display: inline-block;
   padding: 12px 24px;
   text-decoration: none;
   color: #1e1f1f;
 }
 
-button a:hover {
+.button a:hover {
   color: #fff;
 }
 
