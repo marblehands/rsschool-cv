@@ -26,6 +26,7 @@ body p {
 }
 
 nav {
+  max-width: 1440px;
   margin: 0 auto;
   padding: 0 40px;
 }
@@ -133,11 +134,11 @@ section p:last-child {
 }
 
 h1 {
-  font-family: "Alfa Slab One", cursive;
-  font-size: 78px;
+  font-family: "Alfa Slab One", sans-serif;
+  font-size: 86px;
   color: #fff;
-  margin-bottom: 48px;
-  line-height: 1.2em;
+  margin-bottom: 36px;
+  line-height: 1.1em
 }
 
 h1 span {
