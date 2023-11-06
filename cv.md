@@ -2,10 +2,10 @@
 
 ## Contacts
 
-**Location:** Budapest, Hungary<br>
+**Location:** Oviedo, Spain<br>
 **Email:** anna.chebysheva@gmail.com<br>
 **Telegram:** [@uiuxanna](https://t.me/uiuxanna)<br>
-**RS Discord:** Ania Chebysheva @marblehands<br>
+**RS Discord:** nan @marblehands<br>
 [LinkedIn](https://www.linkedin.com/in/annachebysheva/)
 
 ## Summary
@@ -14,17 +14,13 @@ Experienced UX/UI Designer with a strong background in web and product design. I
 
 ## Skills & Technologies
 
-- HTML5
-- CSS3
+- HTML Basics
+- CSS Basics
 - JavaScript Basics
-- Git, GitHub
+- DOM Manipulation
+- Git & GitHub
 - VS Code
 - Figma
-- Sketch
-- FigJam, Miro
-- Adobe Photoshop, Illustrator, InDesign, After Effects
-- Protopie, Principle
-- Tilda, Readymag, Webflow
 
 ---
 
@@ -38,11 +34,8 @@ Experienced UX/UI Designer with a strong background in web and product design. I
 
 ## Code example
 
-Instruction for the first task on Codewars: _This code does not execute properly. Try to figure out why._<br>
-Solution: _Missing `return`_
-
 ```
-function multiply(a, b){
+function multiply (a, b) {
 return a * b
 }
 ```
@@ -55,16 +48,15 @@ Bachelor of Design<br>
 
 ## Courses
 
-- Udemy, Build Responsive Real-World Websites with HTML and CSS, Jonas Schmedtmann (in progress).
-
-- RS School, JavaScript/Front-end. Stage 0 (in progress).
+- [RS School, JavaScript/Front-end. Stage 0](https://app.rs.school/certificate/93qwnbjd)
 
 ## Languages
 
-- English – C1 Advanced on the CEFR scale.
+- English – C1 Advanced on the CEFR scale.<br>
   Proven by successfully passing the Cambridge Exam FCE with Grade A in June 2023.
 
-- Polish – B1
-  Learned with a tutor about a year, have been living in Poland and communicated on basic topics.
+- Polish – B1<br>
+  Have been learning Polish language about a year, have been living in Gdańsk, Poland and communicated on basic topics.
 
-- Russian – Native
+- Spanish – A1<br>
+  Started learning basic Spanish as I have moved to Asturia, Spain recently.
